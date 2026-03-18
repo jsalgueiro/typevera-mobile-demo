@@ -9,7 +9,7 @@ This repository provides the compiled Android application (.apk) so you can test
 ## 📥 How to Download
 To test Typevera on your Android device:
 
-1. Navigate to the **[Releases](https://github.com)** section of this repo.
+1. Navigate to the **[Releases]([https://github.com](https://github.com/jsalgueiro/typevera-mobile-demo/releases/))** section of this repo.
 2. Download the `typevera-demo.apk` from the latest release assets.
 3. Install it (you may need to "Allow installs from unknown sources" in your settings).
 
@@ -37,9 +37,8 @@ Stop copy-pasting boilerplate. Typevera gives you a "Run & Build" experience:
 ---
 
 ## 🛒 Get the Full Source Code
-Ready to skip the setup and start building? 
-
-**Early Bird Pricing:** The first 10 builders get the full kit for only **€79**.
+Ready to skip the setup and start building?
+Early Bird Launch: We are offering a limited number of discounted spots for the first builders. Check the current availability and grab your license on our website.
 
 👉 **[Get Typevera Now](https://www.typevera.com/)**
 
