@@ -1,45 +1,48 @@
-# TypeVera – Demo App 🚀
+# Typevera – Android Demo App 🚀
 
-Welcome to the official demo repository for the **TypeVera Starter Kit**. 
+Welcome to the official demo repository for [Typevera](https://www.typevera.com/). 
 
-This repository provides the compiled Android application (.apk) so you can experience the design system, animations, and code architecture on a real device before you buy the full source code.
+This repository provides the compiled Android application (.apk) so you can test the **Typevera Starter Kit** on a physical device. Experience the clean architecture, the fluid design system, and the AI-optimized structure before you buy.
 
 ---
 
 ## 📥 How to Download
-To test TypeVera on your Android device:
+To test Typevera on your Android device:
 
-1. Navigate to the **[Releases](https://github.com)** section.
-2. Download the `typevera-demo.apk` from the Assets.
+1. Navigate to the **[Releases](https://github.com)** section of this repo.
+2. Download the `typevera-demo.apk` from the latest release assets.
 3. Install it (you may need to "Allow installs from unknown sources" in your settings).
 
 ---
 
-## ✨ What you are testing
-TypeVera is designed for developers who value **clean UI** and **modular architecture**. This demo showcases:
+## ⚡ What you are testing
+Typevera isn't just a UI kit; it’s a production-ready foundation. In this demo, you can explore:
 
-*   **Premium Typography:** Precision-tuned layouts for readability.
-*   **Fluid UI Components:** Buttons, inputs, and cards ready for production.
-*   **Theme Engine:** Seamless switching between Light and Dark modes.
-*   **Performance:** Zero-lag navigation and optimized rendering.
+*   **Clean Service Layer:** Experience the factory pattern. This demo runs on **Mock Services**, showing how the app performs even without a live backend.
+*   **AI-Ready Structure:** The UI components and navigation flows you see are built to be perfectly understood by Cursor and Claude.
+*   **Full Onboarding & Auth Flow:** Test the multi-step onboarding, OTP screens, and route guards.
+*   **Design System:** Native-feeling typography, system-aware Dark Mode, and i18n (EN/PT) integration.
+*   **User Management:** Profile editing, notification handling, and persisted settings.
 
 ---
 
 ## 🛠 About the Starter Kit
-This APK is a compiled version of the **TypeVera Starter Kit**. By purchasing the full kit, you get the actual code used to build this app, saving you 100+ hours of development.
+Stop copy-pasting boilerplate. Typevera gives you a "Run & Build" experience:
 
-### What's included in the kit?
-- ✅ Production-ready [Flutter/React Native] Source Code.
-- ✅ Clean, scalable folder structure.
-- ✅ Complete Documentation & Setup Guide.
-- ✅ Integrated [Firebase/Supabase] boilerplate (if applicable).
-
----
-
-## 🛒 Get the Source Code
-Ready to start building? Get the full TypeVera codebase here:
-👉 **[https://www.typevera.com/]**
+- **React Native + Expo:** Runs instantly on iOS and Android.
+- **Optimized for AI:** Includes `CLAUDE.md` and Cursor rules so your AI understands your patterns, not just generic code.
+- **Offline ↔ Online:** Swap between mock and real HTTP services with a single config line.
+- **Ready for 2026:** Modern architecture that skips the "weeks of setup" and goes straight to features.
 
 ---
 
-*Note: This repository is for demonstration purposes and does not contain the source code.*
+## 🛒 Get the Full Source Code
+Ready to skip the setup and start building? 
+
+**Early Bird Pricing:** The first 10 builders get the full kit for only **€79**.
+
+👉 **[Get Typevera Now](https://www.typevera.com/)**
+
+---
+
+*Note: This repository hosts the compiled demo only. It does not contain the Typevera source code.*
