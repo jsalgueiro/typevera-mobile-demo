@@ -45,3 +45,4 @@ Early Bird Launch: We are offering a limited number of discounted spots for the 
 ---
 
 *Note: This repository hosts the compiled demo only. It does not contain the Typevera source code.*
+If you find this demo helpful, give us a ⭐ to support the project!
