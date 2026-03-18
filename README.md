@@ -38,7 +38,7 @@ This APK is a compiled version of the **TypeVera Starter Kit**. By purchasing th
 
 ## 🛒 Get the Source Code
 Ready to start building? Get the full TypeVera codebase here:
-👉 **[Link to your TypeVera Vercel Landing Page]**
+👉 **[https://www.typevera.com/]**
 
 ---
 
