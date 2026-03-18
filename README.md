@@ -1,44 +1,45 @@
-# [Project Name] – Demo App 🚀
+# TypeVera – Demo App 🚀
 
-Welcome to the official demo repository for the **[Project Name] Starter Kit**. 
+Welcome to the official demo repository for the **TypeVera Starter Kit**. 
 
-This repository exists solely to host the compiled Android application (.apk) so you can test the features, performance, and design on a real device before purchasing the source code.
+This repository provides the compiled Android application (.apk) so you can experience the design system, animations, and code architecture on a real device before you buy the full source code.
 
 ---
 
 ## 📥 How to Download
-To get the latest version of the app:
+To test TypeVera on your Android device:
 
-1. Go to the **[Releases](https://github.com)** section of this repository.
-2. Download the `.apk` file under the "Assets" tab.
-3. Install it on your Android device (you may need to "Allow installs from unknown sources").
-
----
-
-## ✨ Features included in this Demo
-*   **Fully Responsive UI:** Built with [Flutter/React Native/Native].
-*   **Smooth Navigation:** Experience the architecture and transitions.
-*   **Dark Mode Support:** Toggle between themes seamlessly.
-*   **API Integration:** Real-time data fetching examples.
-*   [Add your 5th key feature here...]
+1. Navigate to the **[Releases](https://github.com)** section.
+2. Download the `typevera-demo.apk` from the Assets.
+3. Install it (you may need to "Allow installs from unknown sources" in your settings).
 
 ---
 
-## 🛠 Built for Developers
-This app is a compiled version of our premium **Starter Kit**. If you like what you see, you can skip weeks of development by purchasing the full, production-ready source code.
+## ✨ What you are testing
+TypeVera is designed for developers who value **clean UI** and **modular architecture**. This demo showcases:
 
-### What's inside the full kit?
-- ✅ Clean, modular code architecture.
-- ✅ Full documentation & setup guide.
-- ✅ Lifetime updates.
-- ✅ Ready-to-deploy backend integration.
-
----
-
-## 🛒 Get the Full Source Code
-Ready to build your own version? Get the code here:
-👉 **[Link to your Vercel Landing Page or Store]**
+*   **Premium Typography:** Precision-tuned layouts for readability.
+*   **Fluid UI Components:** Buttons, inputs, and cards ready for production.
+*   **Theme Engine:** Seamless switching between Light and Dark modes.
+*   **Performance:** Zero-lag navigation and optimized rendering.
 
 ---
 
-*Note: This repository does not contain the source code. It is for demonstration purposes only.*
+## 🛠 About the Starter Kit
+This APK is a compiled version of the **TypeVera Starter Kit**. By purchasing the full kit, you get the actual code used to build this app, saving you 100+ hours of development.
+
+### What's included in the kit?
+- ✅ Production-ready [Flutter/React Native] Source Code.
+- ✅ Clean, scalable folder structure.
+- ✅ Complete Documentation & Setup Guide.
+- ✅ Integrated [Firebase/Supabase] boilerplate (if applicable).
+
+---
+
+## 🛒 Get the Source Code
+Ready to start building? Get the full TypeVera codebase here:
+👉 **[Link to your TypeVera Vercel Landing Page]**
+
+---
+
+*Note: This repository is for demonstration purposes and does not contain the source code.*
