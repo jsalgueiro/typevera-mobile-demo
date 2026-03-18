@@ -37,7 +37,7 @@ Stop copy-pasting boilerplate. Typevera gives you a "Run & Build" experience:
 ---
 
 ## 🛒 Get the Full Source Code
-Ready to skip the setup and start building?
+Ready to skip the boilerplate and start building?
 Early Bird Launch: We are offering a limited number of discounted spots for the first builders. Check the current availability and grab your license on our website.
 
 👉 **[Get Typevera Now](https://www.typevera.com/)**
