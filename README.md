@@ -10,7 +10,7 @@ This repository lets you test the **Typevera Starter Kit** on a real device — 
 
 ### Android
 
-1. Install **Expo Go** from the [Play Store]([https://play.google.com](https://play.google.com/store/apps/details?id=host.exp.exponent)).
+1. Install **Expo Go** from the [Play Store](https://play.google.com](https://play.google.com/store/apps/details?id=host.exp.exponent)).
 2. Scan the QR code below with your phone's camera:
 
 <img src="./qr-demo.png" width="200" alt="Typevera Android QR Code">
