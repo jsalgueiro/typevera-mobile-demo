@@ -1,4 +1,4 @@
-# Typevera – Android Demo App 🚀
+# Typevera – Demo App 🚀
 
 Welcome to the official demo repository for [Typevera](https://www.typevera.com/).
 
