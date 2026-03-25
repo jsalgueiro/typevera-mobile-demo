@@ -1,84 +1,69 @@
 # Typevera – Android Demo App 🚀
 
-Welcome to the official demo repository for [Typevera](https://www.typevera.com/). 
+Welcome to the official demo repository for [Typevera](https://www.typevera.com/).
 
-This repository provides the compiled Android application (.apk) so you can test the **Typevera Starter Kit** on a physical device. Experience the clean architecture, the fluid design system, and the AI-optimized structure before you buy.
+This repository lets you test the **Typevera Starter Kit** on a real device — experience the clean architecture, fluid design system, and AI-optimized structure before you buy.
 
 ---
 
-## 📱 Test Instantly
+## 📱 Try the Demo
 
-### Android (Fastest)
+### Android
 
 1. Install **Expo Go** from the [Play Store](https://play.google.com).
-
-2. Scan this QR Code with your phone's camera:
+2. Scan the QR code below with your phone's camera:
 
 <img src="./qr-demo.png" width="200" alt="Typevera Android QR Code">
 
-#### **On iOS Simulator (Mac)**
+---
 
-Due to **SDK 55** native requirements, the standard Expo Go from the App Store does not support this preview directly on physical iPhones without a Dev Build.
+### iOS
 
-If you have a Mac with Xcode, you can launch the demo instantly without scanning:
+**Option A — Expo Go Beta (Recommended, no Mac required)**
 
-1. Open your iOS Simulator.
+1. Install **Expo Go Beta** via TestFlight: [join/GZJxxfUU](https://testflight.apple.com/join/GZJxxfUU)
+2. Once installed, scan the QR code above with your phone's camera.
 
+**Option B — iOS Simulator (Mac only)**
+
+1. Open your iOS Simulator in Xcode.
 2. Run this command in your terminal:
-
-   ```bash
-
-   xcrun simctl openurl booted "exp://u.expo.dev/ac9ac730-e950-45da-8cf5-e83ba7cc6327/group/3fedb08d-2d68-4b99-9da2-6c5f442a3977"
-
-If not:
-
-*   **(Physical iOS):
-
-*   ** Use `npx expo go` to build a custom Expo Go and upload to TestFlight (Requires Apple Dev Account).
-
-*   scan the qr code above
+```bash
+xcrun simctl openurl booted "exp://u.expo.dev/ac9ac730-e950-45da-8cf5-e83ba7cc6327/group/3fedb08d-2d68-4b99-9da2-6c5f442a3977"
+```
 
 ---
 
-## 📥 How to Download the Android APK
+## 📥 Download the Android APK
 
-To test Typevera on your Android device:
+Prefer a direct install instead of Expo Go?
 
-1. Navigate to the **[Releases](https://github.com/jsalgueiro/typevera-mobile-demo/releases/)** section of this repo.
-
-2. Download the `typevera-demo.apk` from the latest release assets.
-
-3. Install it (you may need to "Allow installs from unknown sources" in your settings).
+1. Go to the **[Releases](https://github.com/jsalgueiro/typevera-mobile-demo/releases/)** section of this repo.
+2. Download `typevera-demo.apk` from the latest release.
+3. Install it on your device (you may need to enable **"Install from unknown sources"** in your Android settings).
 
 ---
 
-## ⚡ What you are testing
+## ⚡ What You're Testing
 
-Typevera isn't just a UI kit; it’s a production-ready foundation. In this demo, you can explore:
+Typevera isn't just a UI kit — it's a production-ready foundation. In this demo you can explore:
 
-*   **Clean Service Layer:** Experience the factory pattern. This demo runs on **Mock Services**, showing how the app performs even without a live backend.
-
-*   **AI-Ready Structure:** The UI components and navigation flows you see are built to be perfectly understood by Cursor and Claude.
-
-*   **Full Onboarding & Auth Flow:** Test the multi-step onboarding, OTP screens, and route guards.
-
-*   **Design System:** Native-feeling typography, system-aware Dark Mode, and i18n (EN/PT) integration.
-
-*   **User Management:** Profile editing, notification handling, and persisted settings.
+- **Clean Service Layer:** Runs on Mock Services, showcasing the factory pattern without a live backend.
+- **AI-Ready Structure:** Components and navigation built to be perfectly understood by Cursor and Claude.
+- **Full Onboarding & Auth Flow:** Multi-step onboarding, OTP screens, and route guards.
+- **Design System:** Native-feeling typography, system-aware Dark Mode, and i18n (EN/PT).
+- **User Management:** Profile editing, notification handling, and persisted settings.
 
 ---
 
 ## 🛠 About the Starter Kit
 
-Stop copy-pasting boilerplate. Typevera gives you a "Run & Build" experience:
+Stop copy-pasting boilerplate. Typevera gives you a **"Run & Build"** experience:
 
-- **React Native + Expo:** Runs instantly on iOS and Android.
-
-- **Optimized for AI:** Includes `CLAUDE.md` and Cursor rules so your AI understands your patterns, not just generic code.
-
-- **Offline ↔ Online:** Swap between mock and real HTTP services with a single config line.
-
-- **Ready for 2026:** Modern architecture that skips the "weeks of setup" and goes straight to features.
+- **React Native + Expo** — runs instantly on iOS and Android.
+- **Optimized for AI** — includes `CLAUDE.md` and Cursor rules so your AI understands your patterns.
+- **Offline ↔ Online** — swap between mock and real HTTP services with a single config line.
+- **Ready for 2026** — modern architecture that skips weeks of setup and goes straight to features.
 
 ---
 
@@ -86,16 +71,12 @@ Stop copy-pasting boilerplate. Typevera gives you a "Run & Build" experience:
 
 Ready to skip the boilerplate and start building?
 
-Early Bird Launch: We are offering a limited number of discounted spots for the first builders. Check the current availability and grab your license on our website.
+**Early Bird Launch:** A limited number of discounted spots are available for the first builders. Check availability and grab your license on our website.
 
 👉 **[Get Typevera Now](https://www.typevera.com/)**
 
 ---
 
-*Note: This repository hosts the compiled demo only. It does not contain the Typevera source code.*
+*This repository hosts the compiled demo only — it does not contain the Typevera source code.*
 
-If you find this demo helpful, give us a ⭐ to support the project!
-
-
-
-update the readme ready to paste on a readme-md of my typevera
+If you find this useful, drop us a ⭐ to support the project!
