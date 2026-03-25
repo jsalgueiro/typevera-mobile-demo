@@ -5,8 +5,23 @@ Welcome to the official demo repository for [Typevera](https://www.typevera.com/
 This repository provides the compiled Android application (.apk) so you can test the **Typevera Starter Kit** on a physical device. Experience the clean architecture, the fluid design system, and the AI-optimized structure before you buy.
 
 ---
+## 📱 Test Instantly
 
-## 📥 How to Download
+### Android (Fastest)
+1. Install **Expo Go** from the [Play Store](https://play.google.com).
+2. Scan this QR Code with your phone's camera:
+
+<img src="./qr-demo.png" width="200" alt="Typevera Android QR Code">
+
+### iOS (Simulator & Physical)
+Due to **SDK 55** native requirements, the standard Expo Go from the App Store does not support this preview directly on physical iPhones without a Dev Build.
+
+*   **Option A (Physical iOS):** Use `npx expo go` to build a custom Expo Go and upload to TestFlight (Requires Apple Dev Account).
+*   **Option C:** Check our **[Video Demo Link]** to see the 60fps performance and native transitions.
+
+---
+
+## 📥 How to Download the Android APK
 To test Typevera on your Android device:
 
 1. Navigate to the **[Releases](https://github.com/jsalgueiro/typevera-mobile-demo/releases/)** section of this repo.
